@@ -119,8 +119,8 @@ What is a potential consequence of not having strong data privacy protections in
 
 **Top Answer:**
 ```
-Author: [your name here]
+Author: [hector]
 
-[your answer here]
+[your passwords are exposed!]
 
 ```
