@@ -135,8 +135,8 @@ What is a potential consequence of not having strong data privacy protections in
 
 **Top Answer:**
 ```
-Author: [your name here]
+Author: [Tess]
 
-[your answer here]
+[compromising private information]
 
 ```
