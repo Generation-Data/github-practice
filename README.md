@@ -64,6 +64,7 @@ You can create a new branch in your repo on your codespace by running the comman
 git checkout -b feature-update-guide
 ```
 
+
 Run `git branch` to ensure that you've switched to your newly created branch:
 
 ![](guide/imgs/git-branch.png)
@@ -72,8 +73,8 @@ Run `git branch` to ensure that you've switched to your newly created branch:
 
 Remove the markdown-formatted block and add a `>` symbol next to each line in the section. Your markdown file should look like this:
 
-```markdown
-### Example Data Privacy Policy (Snippet)
+
+>### Example Data Privacy Policy (Snippet)
 
 
 > ### Data Privacy Policy
@@ -93,7 +94,7 @@ Remove the markdown-formatted block and add a `>` symbol next to each line in th
 > #### Consent and Rights
 > 
 > Individuals have the right to access, correct, or delete their personal data upon request. Consent can be withdrawn at any time.
-```
+
 
 Verify your changes in the preview window.
 
