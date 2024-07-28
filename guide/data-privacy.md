@@ -76,19 +76,19 @@ Develop a plan for responding to data breaches. Outline steps to mitigate damage
 #### Data Collection and Usage
 
 We collect personal data (e.g., names, email addresses) only with explicit consent and for specified purposes. Data is used solely for internal communication and organizing purposes.
-
+ 
 #### Data Security
-
+ 
 All personal data is stored securely using industry-standard encryption methods. Access is restricted to authorized personnel only.
-
+ 
 #### Data Retention
-
+ 
 We retain personal data only as long as necessary for organizational purposes or as required by law. Data will be securely deleted when no longer needed.
-
+ 
 #### Consent and Rights
-
+ 
 Individuals have the right to access, correct, or delete their personal data upon request. Consent can be withdrawn at any time.
-```
+
 
 ### Example Consent Form (Snippet)
 
@@ -111,3 +111,16 @@ For further reading and resources on data privacy, consider exploring guidelines
 ---
 
 This guide provides a comprehensive overview of data privacy considerations tailored to social movement organizations. Implementing these practices will not only help your organization comply with legal requirements but also demonstrate your commitment to protecting the privacy of your supporters and members.
+
+---
+# Discussion Question:
+
+What is a potential consequence of not having strong data privacy protections in a social movement organization?
+
+**Top Answer:**
+```
+Author: [your name here]
+
+[your answer here]
+
+```
